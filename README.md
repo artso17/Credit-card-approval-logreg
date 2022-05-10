@@ -1,4 +1,4 @@
-# Credit-card-approval-logreg
+# Credit Card Approval Logreg
 This Project is making Model Machine learning to predict whether or not the Credit card being approved.
 
 The dataset is retrived from the [http://archive.ics.uci.edu/ml/datasets/credit+approval](http://archive.ics.uci.edu/ml/datasets/credit+approval) 
