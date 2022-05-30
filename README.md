@@ -31,4 +31,4 @@ Time to fit the model, the model I use is Logistic Regression.
 
 <a id ='model-evaluating'></a>
 ## 5. Model Evaluating
-After fitting the model, the model can be use to predict the new data set and use it for evaluating with accuracy and confusion matrix.
+After fitting the model, the model can be use to predict the new data set and use it for evaluating with accuracy 0.87 and confusion matrix.
